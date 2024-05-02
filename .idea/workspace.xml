@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3423325-c43b-4ef1-bbfc-9416e88118f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/modelos/MinhasPreferidas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/modelos/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/modelos/Audio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/modelos/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/modelos/Musica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/modelos/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "show.migrate.to.gradle.popup": "false"
   }
